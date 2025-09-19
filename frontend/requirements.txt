@@ -1,0 +1,9 @@
+streamlit==1.49.1
+pandas
+numpy
+plotly
+pydeck
+requests
+folium
+streamlit-folium
+matplotlib
